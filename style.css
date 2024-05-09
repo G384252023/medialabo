@@ -1,6 +1,14 @@
-p{
-    color: navy;
+body{
+    background-color: rgba(206, 220, 206, 0.497);
+}p{
+    color: rgb(16, 46, 63);
 }
-    h1 {
+h1 {
     color: green;
+}
+h2{
+    margin: 3px;
+	color:#3f3faf;
+	font-family: sans-serif;
+	color:#3f3faf;
 }
