@@ -1,14 +1,39 @@
-body{
-    background-color: rgba(206, 220, 206, 0.497);
-}p{
+body {
+    background-color: rgba(205, 219, 185, 0.497);
+}
+
+p {
     color: rgb(16, 46, 63);
 }
+
 h1 {
     color: green;
 }
-h2{
+
+h2 {
     margin: 3px;
-	color:#3f3faf;
-	font-family: sans-serif;
-	color:#3f3faf;
+    color: #3f3faf;
+    font-family: sans-serif;
+    color: #3f3faf;
+}
+
+
+div#x {
+    display: grid;
+    border: solid rgb(144, 157, 172);
+    grid-template-columns: 5fr 5fr;
+    background-color: rgb(144, 157, 172);
+    grid-auto-rows: 200px 200px;
+    grid-gap: 10px;
+    width: 1000px;
+}
+
+div {
+    padding: 5px;
+    border: 5px solid green;
+    background: linear-gradient(.25turn, white, 40%, #a5e0b8);
+    margin: 5px;
+    color: #3f3faf;
+    font-family: cursive;
+    color: #3f3faf;
 }
