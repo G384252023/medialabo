@@ -13,7 +13,10 @@ h2 {
     border: 4px dashed green;
     background: linear-gradient(to right, #a8edea, #fed6e3);
 }
-div {
+body {
+    background-color: hsla(65, 86%, 45%, 0.498);
+}
+div#result>div {
     padding: 5px;
     border: 5px solid green;
     background: linear-gradient(.25turn, white, 40%, #a5e0b8);
