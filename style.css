@@ -25,9 +25,9 @@ div#x {
     border: solid rgb(144, 157, 172);
     grid-template-columns: 5fr 5fr;
     background-color: rgb(144, 157, 172);
-    grid-auto-rows: 350px 350px;
+    grid-auto-rows: 300px 300px;
     grid-gap: 10px;
-    width: 700px;
+    width: 1000px;
 }
 
 div {
